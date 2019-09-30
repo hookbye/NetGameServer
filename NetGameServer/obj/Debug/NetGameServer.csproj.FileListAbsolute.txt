@@ -1,0 +1,11 @@
+D:\study\NetGameServer\NetGameServer\bin\Debug\NetGameServer.exe.config
+D:\study\NetGameServer\NetGameServer\bin\Debug\NetGameServer.exe
+D:\study\NetGameServer\NetGameServer\bin\Debug\NetGameServer.pdb
+D:\study\NetGameServer\NetGameServer\obj\Debug\NetGameServer.csprojResolveAssemblyReference.cache
+D:\study\NetGameServer\NetGameServer\obj\Debug\NetGameServer.exe
+D:\study\NetGameServer\NetGameServer\obj\Debug\NetGameServer.pdb
+D:\study\NetGameServer\NetGameServer\bin\Debug\MySql.Data.dll
+D:\study\NetGameServer\NetGameServer\bin\Debug\Google.Protobuf.dll
+D:\study\NetGameServer\NetGameServer\bin\Debug\Renci.SshNet.dll
+D:\study\NetGameServer\NetGameServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\study\NetGameServer\NetGameServer\bin\Debug\MySql.Data.xml
